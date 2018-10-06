@@ -1,7 +1,7 @@
 #include "stdio.h"
 #include "windows.h"
 
-#paragma comment(lib, "kernel32.dll")
+#pragma comment(lib, "kernel32.dll")
 
 DWORD WINAPI ThreadProc(LPVOID lParam)
 {
