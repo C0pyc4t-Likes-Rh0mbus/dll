@@ -3,6 +3,6 @@
 
 <pre>
 <code>
-injection.exe <inject dll>
+injection.exe [inject dll]
 </code>
 </pre>
