@@ -1,5 +1,5 @@
 
-#### 1.dll injection & api hooking (internet explorer)
+#### 1. dll injection & api hooking (internet explorer)
 
 <pre>
 <code>
@@ -7,6 +7,17 @@
 </code>
 </pre>
 
+#### 2. dll injection & api hooking (python)
+
+<pre>
+<code>
+> python dll_inject.py [process name] [dll file path]
+</code>
+</pre>
+
+
 #### Environment
 
-os : winodws xp (64bit)
+* os : winodws xp (64bit)
+* python
+* c/c++
