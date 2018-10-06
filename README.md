@@ -1,5 +1,6 @@
 
 1.injection (internet explorer api hooking)
 
->injection.exe <inject dll>
-
+{code}
+injection.exe <inject dll>
+{code}
