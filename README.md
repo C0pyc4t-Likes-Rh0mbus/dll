@@ -1,5 +1,5 @@
 
-#### 1.injection (internet explorer api hooking)
+#### 1.dll injection & api hooking (internet explorer)
 
 <pre>
 <code>
