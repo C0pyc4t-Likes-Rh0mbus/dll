@@ -19,5 +19,5 @@
 #### Environment
 
 * os : winodws xp (64bit)
-* python
+* python 2.7.X
 * c/c++
